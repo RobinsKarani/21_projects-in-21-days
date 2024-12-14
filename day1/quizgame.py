@@ -16,7 +16,7 @@ if answer == (3*13):
 else:
     print("Incorrect!")    
 
-#question1
+#question2
 answer = int(input("What is 7 *13? "))
 if answer == (7*13):
     print("Correct!")
